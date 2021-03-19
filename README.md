@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im the human named Ruben Karlsson. I started to talk with computers with Python during the 2020 pandemic. 
+Im the human named Ruben Gordon Karlsson. I started to talk with computers with Python during the 2020 pandemic. 
 Always passionate about learning new things.
 <!--
 **neburnodrog/neburnodrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
