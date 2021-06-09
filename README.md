@@ -1,7 +1,20 @@
-### Hi there 👋
+[![codewars](https://www.codewars.com/users/neburg/badges/small)](https://www.codewars.com/users/neburg)
+
+<p align="center">
+  Hi there 👋
+</p>
+
+
+
 
 Im the human named Ruben Gordon Karlsson. I started to talk with computers with Python during the 2020 pandemic. 
 Feed me with knowledge, please.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=neburnodrog&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neburnodrog&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **neburnodrog/neburnodrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
