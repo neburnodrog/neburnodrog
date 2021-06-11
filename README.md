@@ -1,5 +1,3 @@
-[![codewars](https://www.codewars.com/users/neburg/badges/large)](https://www.codewars.com/users/neburg)
-
 <h2 align="center">
   Hi there 👋
 </h2>
